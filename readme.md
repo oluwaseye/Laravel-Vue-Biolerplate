@@ -11,4 +11,6 @@ Laravel 6 | Vue 2 w/ Vue router
 
     $ npm install
     
+    $ npm run watch
+
 #### 3. Voila!     
